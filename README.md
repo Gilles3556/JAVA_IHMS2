@@ -47,7 +47,6 @@ Une autre version d'IHMs en Java.
         }
  
  
- //pour obtenir un affichage dans la console, il suffira la ligne Ihm vue=...
- //    par Ihm vue = FabriqueIhm.creerIhm(TypeIhm.CONSOLE);
+ //pour obtenir un affichage dans la console, il suffira la ligne Ihm vue=...  par Ihm vue = FabriqueIhm.creerIhm(TypeIhm.CONSOLE);
 
  </code>
