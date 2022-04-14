@@ -50,3 +50,8 @@ Une autre version d'IHMs en Java.
  //pour obtenir un affichage dans la console, il suffira la ligne Ihm vue=...  par Ihm vue = FabriqueIhm.creerIhm(TypeIhm.CONSOLE);
 
  </code>
+
+Exemple de création d'un menu mode console:
+
+![Menu console Screen 1](./hcmenu_console01.PNG?raw=true "Menu en  mode console")
+
