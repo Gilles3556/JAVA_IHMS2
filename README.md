@@ -4,3 +4,6 @@ Une autre version d'IHMs en Java.
 
 
 - des classes spécialisées dans les menus;
+- des classes spécialisées dans l'affichage des tableaux;
+- ![Screen 1](./hc01.png?raw=true "Tableau en  mode console")
+- ![Screen 2](./c02.png?raw=true "Tableau en  mode Jpanel")
