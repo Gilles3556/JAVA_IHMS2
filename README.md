@@ -17,7 +17,9 @@ Une autre version d'IHMs en Java.
 
 #Exemples d'utilisation:
 <code lang='java'>
-public static void main(String[] args) {
+ 
+ // Donnera un tableau dans une vue JPanel:
+ 
         String titreTableau="Les élèves";
 
         String[] tabEntetes={"Nom","Prénom","age","NIA"};
@@ -43,4 +45,9 @@ public static void main(String[] args) {
         }catch(Exception ex){
             ex.printStackTrace();
         }
+ 
+ 
+ //pour obtenir un affichage dans la console, il suffira la ligne Ihm vue=...
+ //    par Ihm vue = FabriqueIhm.creerIhm(TypeIhm.CONSOLE);
+
  </code>
